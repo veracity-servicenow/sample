@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sample">069bb6772f13301018a4d5ea2799b68a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Samples</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_84938_veracity_sample</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_84938_veracity.sample_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-26 18:12:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>029bb6772f13301018a4d5ea2799b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Samples</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Veracity" source="x_84938_veracity">456b7a332f13301018a4d5ea2799b651</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Veracity">456b7a332f13301018a4d5ea2799b651</sys_scope>
+        <sys_update_name>sys_app_module_029bb6772f13301018a4d5ea2799b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-26 18:12:49</sys_updated_on>
+        <timeline_page/>
+        <title>Samples</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

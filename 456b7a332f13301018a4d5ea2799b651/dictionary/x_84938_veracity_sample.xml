@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="Sample" max_length="40" name="x_84938_veracity_sample" type="collection"/>
+</database>
